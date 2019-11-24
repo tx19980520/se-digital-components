@@ -1,0 +1,26 @@
+/////////////////////////////////////////////////////////////
+//                                                         //
+// School of Software of SJTU                              //
+//                                                         //
+/////////////////////////////////////////////////////////////
+
+module sc_computer (one,two,resetn,clock,mem_clk,pc,inst,aluout,memout,imem_clk,dmem_clk,hex0,hex1,hex2,hex3,hex4,hex5, result);
+   
+   input resetn,clock,mem_clk;
+   input [3:0] one,two;
+   output [4:0] result;
+   output [31:0] pc,inst,aluout,memout;
+   output        imem_clk,dmem_clk;
+   output [6:0] hex0, hex1, hex2, hex3, hex4, hex5;
+   wire   [31:0] data;
+   wire          wmem; // all these "wire"s are used to connect or interface the cpu,dmem,imem and so on.
+   
+   sc_cpu cpu (clock,resetn,inst,memout,pc,wmem,aluout,data);          // CPU module.
+   sc_instmem  imem (pc,inst,clock,mem_clk,imem_clk);                  // instruction memory.
+   sc_datamem  dmem (aluout,data,memout,wmem,clock,mem_clk,dmem_clk,one,two,result); // data memory.
+   sc_io io(one,two,result,hex0,hex1,hex2,hex3,hex4,hex5);
+
+endmodule
+
+
+

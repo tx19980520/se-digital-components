@@ -1,0 +1,11 @@
+module number_split(number,
+               high, low);
+    input [31:0] number;
+    output [3:0] high, low;
+    reg [3:0] high;
+    reg [3:0] low;
+    
+    always@(*)
+        high = number / 10;
+        low = number - h * 10;
+endmodule

@@ -1,0 +1,461 @@
+m255
+K3
+13
+cModel Technology
+dD:\verilog\FPGA\stopwatch
+valu
+I@W`d<Ue0YMBO@G;eMlR?82
+VKc:bVz32gc5X2ZbjUde9O3
+Z0 dC:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source
+w1573482069
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/alu.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/alu.v
+L0 1
+Z1 OV;L;10.1d;51
+r1
+31
+Z2 o-work sc_computer -O0
+!s100 ]M;I<]07bLUWL`<2nY?UD3
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/alu.v|
+!s108 1574063202.259000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcla32
+IlSaEV>OeBOg]mEXAPO=B12
+V2R<FU@CBkP@hQ?FK]Y>592
+Z3 dC:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source
+w1573536325
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/cla32.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/cla32.v
+L0 1
+R1
+r1
+31
+R2
+!s100 F]_F;?3W32I_KJ[]YlQ321
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/cla32.v|
+!s108 1574063202.344000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/cla32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdff32
+IeUIiD:VmWNb>4e2Fb7=nd0
+VUO7_EzIi9>SeN7M;XG9<c0
+R3
+w1305031718
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dff32.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dff32.v
+L0 1
+R1
+r1
+31
+R2
+!s100 ToV8_1<hj>f`<G=z4KDM?2
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dff32.v|
+!s108 1574063202.435000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dff32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdffe32
+I6kEK6o72?WC2a;`Hhj7[E1
+V6]Tk:7m18<;Eoi?;I3VNB3
+R3
+w1252914812
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dffe32.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dffe32.v
+L0 1
+R1
+r1
+31
+R2
+!s100 ^1Cb]j=:[^1laQE?Zz<h_3
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dffe32.v|
+!s108 1574063202.524000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/dffe32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vio_out
+IK0b=2eNdOI3=;6kUJ[VzT0
+VRzV2?SR^3dT]O;Q4aVP`[2
+R3
+Z4 w1574063190
+Z5 8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_datamem.v
+Z6 FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_datamem.v
+L0 75
+R1
+r1
+31
+Z7 !s108 1574063203.468000
+Z8 !s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_datamem.v|
+Z9 !s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_datamem.v|
+R2
+!s100 l<eIChHM;hLYD2P[^9mYQ1
+!i10b 1
+!s85 0
+!s101 -O0
+vio_switch
+I8MTX?nm@;j;=J4EFnB`^N1
+V0LN;kOUWV^=?9<l_ijzoV2
+R3
+w1574062699
+R5
+R6
+L0 66
+R1
+r1
+31
+R8
+R9
+R2
+!s108 1574062713.806000
+!s100 f;o`LUXVGIdbSAfUTL=bh2
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_ram_dq_dram
+IP^L?e4@ooODlmSUUdNX;e3
+V;^>UgMFOjF@EZ@A<NMAW`0
+R3
+w1573619938
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_ram_dq_dram.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_ram_dq_dram.v
+L0 39
+R1
+r1
+31
+R2
+!s100 lZ5]AG3d]Aj2Y9?EcL[Vj3
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_ram_dq_dram.v|
+!s108 1574063202.614000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_ram_dq_dram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_rom_irom
+IMF1FgUPdB2`VYbAbOCVeo3
+V6I?:oUA0HYdli42?U:6:L0
+R3
+w1573632069
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_rom_irom.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_rom_irom.v
+L0 39
+R1
+r1
+31
+R2
+!s100 Kk6FEz8=VA8jj8KGacXGk2
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_rom_irom.v|
+!s108 1574063202.735000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/lpm_rom_irom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x32
+I5c8[T8objF4m_gEbaElj=3
+V_8o=]o8CzEDeX@^n?a@zP3
+R3
+w1252908544
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x32.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x32.v
+L0 1
+R1
+r1
+31
+R2
+!s100 BGiGF4_?`?9NNkDQ[hoOj0
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x32.v|
+!s108 1574063202.914000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x5
+IdH0<iEOn[P2CzfnlBcJ5`2
+Vah3g>_]Y^Qz2GXD7HR^<<3
+R3
+w1253170143
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x5.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x5.v
+L0 1
+R1
+r1
+31
+R2
+!s100 B9:SOf[13`LLGJNk`?c<n3
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x5.v|
+!s108 1574063202.828000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux2x5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x32
+Ic939<F>]M8c3?[o0cnko@0
+VM:hYY`k:C]4^:^k7d8C]M0
+R3
+w1252998688
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux4x32.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux4x32.v
+L0 1
+R1
+r1
+31
+R2
+!s100 z?:b=NIYhLJDgPC2?Tmlj0
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux4x32.v|
+!s108 1574063203.003000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/mux4x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnumber_split
+If?lle;TkIWXW3CWe303Do1
+VI0@8Ja^A=`_I<zc^2DHjR1
+R3
+w1573731853
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split.v
+L0 1
+R1
+r1
+31
+Z10 o-work work -O0
+!i10b 1
+!s100 SNlX2MK<AkHzPUHReXk_G0
+!s85 0
+!s108 1574063203.719000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split.v|
+!s101 -O0
+vnumber_split_4
+!i10b 1
+!s100 2^0e6CWkE3`<?`1lBR`RE2
+IaGPL[A`ZnFf>K>i0`cJ>a0
+V^7zX`^Cn5SmBFY<K[LN[R1
+R3
+w1573731938
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split_4.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split_4.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s108 1574063204.187000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split_4.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/number_split_4.v|
+!s101 -O0
+R10
+vregfile
+IQ_S`2`jg`UW59=XMZo`JI2
+VHL?YD<z4Tlb1gm`0^XW@D2
+R3
+w1573538026
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/regfile.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/regfile.v
+L0 1
+R1
+r1
+31
+R2
+!s100 Gij9PJAB<^`7c2hYVYLzz0
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/regfile.v|
+!s108 1574063203.092000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer
+IH4UdcV;g10LT;oz8ji]7_2
+ViBS8CfQCh]_>44]3C[K0E2
+R3
+w1573740020
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer.v
+L0 7
+R1
+r1
+31
+R2
+!s100 8ZFkQjD0@HVADL4J9cfO@3
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer.v|
+!s108 1574063203.189000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer_sim
+V^jiC<6F7]doek[nRMoOol1
+r1
+31
+IzD3:2kDF=7>eKXog[Nm7e0
+R3
+w1573542277
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_sim.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_sim.v
+L0 26
+R1
+R2
+!s100 Ij77S=^njTGmG7k2`:R6m1
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_sim.v|
+!s108 1573648581.311000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_sim.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer_top
+IA<5^;;dfDDH59MG6]lJ<j3
+Vl;f;>X2iiaXbJiRZ12>@P3
+R3
+w1573730288
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer_top.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer_top.v
+L0 6
+R1
+r1
+31
+R10
+!i10b 1
+!s100 5f_H0ZLJa9Z`=Po<XJh9D3
+!s85 0
+!s108 1574063204.000000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer_top.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_computer_top.v|
+!s101 -O0
+vsc_computer_top_sim
+I>CbTTm@?n;kCCeaL270C20
+VaCbo>chP8FG:ao=`a7>GY2
+R3
+w1573733452
+8C:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source\sc_computer_top_sim.v
+FC:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source\sc_computer_top_sim.v
+L0 7
+R1
+r1
+31
+R10
+!i10b 1
+!s100 hUXf7_2ji02LZ4:Rj1B3l2
+!s85 0
+!s108 1574063204.093000
+!s107 C:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source\sc_computer_top_sim.v|
+!s90 -reportprogress|300|-work|work|C:\Users\ty020\Desktop\sc_computer_sim\sc_computer_student\source\sc_computer_top_sim.v|
+!s101 -O0
+vsc_cpu
+IcYaW4i^;Y`A0@FY<fZPO93
+V:mi8;^<LZUMNBc_]kEVbj2
+R3
+w1481544047
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cpu.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cpu.v
+L0 1
+R1
+r1
+31
+R2
+!s100 Hn_f;JNAiESjdb;hk<7db1
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cpu.v|
+!s108 1574063203.283000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_cu
+I7]G0n:fo>m9I7jCjcUVeD3
+VAlN72Pg@l_c4ao;V0co7c3
+R3
+w1481542716
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cu.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cu.v
+L0 1
+R1
+r1
+31
+R2
+!s100 za^?1N6zK;O]oVDihfNBn1
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cu.v|
+!s108 1574063203.374000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_cu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_datamem
+IE6d:JRcQG?_Whne9efKES1
+V?N_AO8`gl4Y0<=HbCCZXW2
+R3
+R4
+R5
+R6
+L0 1
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 zj@7F:j4nfWAEnNPBDbQ?2
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_instmem
+IKa7XmIBO]GO8N9H3gDXKe3
+V<S9LF3WN4nUQk_P0M@>lB1
+R3
+w1573714640
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_instmen.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_instmen.v
+L0 1
+R1
+r1
+31
+R2
+!s100 NYnVONRlkNkhSikB1]=]V1
+!s90 -reportprogress|300|-work|sc_computer|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_instmen.v|
+!i10b 1
+!s85 0
+!s108 1574063203.613000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_instmen.v|
+!s101 -O0
+vsc_io
+IEZD4:fWRTW4IWcW7bkGK91
+VXFR=hJ;0K7dWT9gDS]NjQ0
+R3
+w1573658410
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_io.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_io.v
+L0 1
+R1
+r1
+31
+R10
+!i10b 1
+!s100 cFHI1k1kkbeLiDjE^H@]b1
+!s85 0
+!s108 1574063203.914000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_io.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sc_io.v|
+!s101 -O0
+vsevenseg
+IfjOZ^^A>_8g1L:>nIHa_P2
+V<kz4<ET@H::]Aoef`6B9U3
+R3
+w1573560994
+8C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sevenseg.v
+FC:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sevenseg.v
+L0 1
+R1
+r1
+31
+R10
+!i10b 1
+!s100 DYF8`JmM:2lnffVcNz0Wo0
+!s85 0
+!s108 1574063203.817000
+!s107 C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sevenseg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ty020/Desktop/sc_computer_sim/sc_computer_student/source/sevenseg.v|
+!s101 -O0

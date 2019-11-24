@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////
+//                                                         //
+// School of Software of SJTU                              //
+//                                                         //
+/////////////////////////////////////////////////////////////
+`timescale 1ps/1ps
+module sc_computer_top (one,two,clock,pc,inst,aluout,memout,imem_clk,dmem_clk,hex0,hex1,hex2,hex3,hex4,hex5);
+   reg           clock_50M_sim;
+   input clock;
+   reg           resetn;
+   reg           cpuclk;
+   input [3:0] one,two;
+   output [31:0] pc,inst,aluout,memout;
+   output        imem_clk,dmem_clk;
+   output [6:0] hex0, hex1, hex2, hex3, hex4, hex5;
+   wire   [31:0] data;
+   wire          wmem; // all these "wire"s are used to connect or interface the cpu,dmem,imem and so on.
+   
+  sc_computer    sc_computer_instance (one,two,resetn,cpuclk,clock,pc,inst,aluout,memout,imem_clk,dmem_clk,hex0,hex1,hex2,hex3,hex4,hex5);
+	    
+	 initial
+        begin
+            cpuclk = 1;
+        end
+    always@(posedge clock) begin
+        cpuclk = ~cpuclk;
+    end
+
+endmodule
+
+
+
